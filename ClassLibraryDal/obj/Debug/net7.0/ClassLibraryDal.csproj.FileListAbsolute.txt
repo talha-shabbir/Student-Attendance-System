@@ -1,0 +1,16 @@
+F:\Student-Attendence-System\ClassLibraryDal\bin\Debug\net7.0\ClassLibraryDal.deps.json
+F:\Student-Attendence-System\ClassLibraryDal\bin\Debug\net7.0\ClassLibraryDal.dll
+F:\Student-Attendence-System\ClassLibraryDal\bin\Debug\net7.0\ClassLibraryDal.pdb
+F:\Student-Attendence-System\ClassLibraryDal\bin\Debug\net7.0\ClassLibraryModel.dll
+F:\Student-Attendence-System\ClassLibraryDal\bin\Debug\net7.0\ClassLibraryModel.pdb
+F:\Student-Attendence-System\ClassLibraryDal\obj\Debug\net7.0\ClassLibraryDal.csproj.AssemblyReference.cache
+F:\Student-Attendence-System\ClassLibraryDal\obj\Debug\net7.0\ClassLibraryDal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Student-Attendence-System\ClassLibraryDal\obj\Debug\net7.0\ClassLibraryDal.AssemblyInfoInputs.cache
+F:\Student-Attendence-System\ClassLibraryDal\obj\Debug\net7.0\ClassLibraryDal.AssemblyInfo.cs
+F:\Student-Attendence-System\ClassLibraryDal\obj\Debug\net7.0\ClassLibraryDal.csproj.CoreCompileInputs.cache
+F:\Student-Attendence-System\ClassLibraryDal\obj\Debug\net7.0\ClassLibraryDal.sourcelink.json
+F:\Student-Attendence-System\ClassLibraryDal\obj\Debug\net7.0\ClassLib.D446F51C.Up2Date
+F:\Student-Attendence-System\ClassLibraryDal\obj\Debug\net7.0\ClassLibraryDal.dll
+F:\Student-Attendence-System\ClassLibraryDal\obj\Debug\net7.0\refint\ClassLibraryDal.dll
+F:\Student-Attendence-System\ClassLibraryDal\obj\Debug\net7.0\ClassLibraryDal.pdb
+F:\Student-Attendence-System\ClassLibraryDal\obj\Debug\net7.0\ref\ClassLibraryDal.dll

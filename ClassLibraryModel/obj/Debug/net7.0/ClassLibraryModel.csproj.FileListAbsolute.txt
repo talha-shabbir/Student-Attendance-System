@@ -1,0 +1,12 @@
+F:\Student-Attendence-System\ClassLibraryModel\bin\Debug\net7.0\ClassLibraryModel.deps.json
+F:\Student-Attendence-System\ClassLibraryModel\bin\Debug\net7.0\ClassLibraryModel.dll
+F:\Student-Attendence-System\ClassLibraryModel\bin\Debug\net7.0\ClassLibraryModel.pdb
+F:\Student-Attendence-System\ClassLibraryModel\obj\Debug\net7.0\ClassLibraryModel.GeneratedMSBuildEditorConfig.editorconfig
+F:\Student-Attendence-System\ClassLibraryModel\obj\Debug\net7.0\ClassLibraryModel.AssemblyInfoInputs.cache
+F:\Student-Attendence-System\ClassLibraryModel\obj\Debug\net7.0\ClassLibraryModel.AssemblyInfo.cs
+F:\Student-Attendence-System\ClassLibraryModel\obj\Debug\net7.0\ClassLibraryModel.csproj.CoreCompileInputs.cache
+F:\Student-Attendence-System\ClassLibraryModel\obj\Debug\net7.0\ClassLibraryModel.sourcelink.json
+F:\Student-Attendence-System\ClassLibraryModel\obj\Debug\net7.0\ClassLibraryModel.dll
+F:\Student-Attendence-System\ClassLibraryModel\obj\Debug\net7.0\refint\ClassLibraryModel.dll
+F:\Student-Attendence-System\ClassLibraryModel\obj\Debug\net7.0\ClassLibraryModel.pdb
+F:\Student-Attendence-System\ClassLibraryModel\obj\Debug\net7.0\ref\ClassLibraryModel.dll
