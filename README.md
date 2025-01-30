@@ -47,7 +47,7 @@ if (role == "Student" && email.EndsWith("@students.au.edu.pk"))
 ## How to Run the Project Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/student-attendance-portal.git
+   git clone git@github.com:talha-shabbir/Student-Attendance-System.git
    ```
 2. Open the solution in **Visual Studio**.
 3. Set the Blazor Server project as the startup project.
